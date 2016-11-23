@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"common.js",
+"lineCount":2,
+"mappings":"A;AAAAA,MAAA,CAAO,qBAAP,EAA8B,CAE7BC,SAAU,IAFmB,EAG7BC,aAAc,sCAHe,EAI7BC,WAAY,4CAJiB,EAK7BC,UAAW,4CALkB,CAA9B;",
+"sources":["common.js.uncompressed.js"],
+"names":["define","buttonOk","buttonCancel","buttonSave","itemClose"]
+}

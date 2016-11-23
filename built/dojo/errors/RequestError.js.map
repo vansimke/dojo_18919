@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"RequestError.js",
+"lineCount":6,
+"mappings":"A;AAAAA,MAAA,CAAO,0BAAP,EAAmC,CAAC,UAAD,CAAnC,EAAiD,QAAQ,CAACC,CAAD,CAAQ;AAWhE,SAAOA,CAAA,CAAO,cAAP,EAAuB,QAAQ,CAACC,CAAD,EAAUC,CAAV,CAAmB;AACxD,QAAAA,SAAA,GAAgBA,CADwC;GAAlD,CAXyD;CAAjE;",
+"sources":["RequestError.js.uncompressed.js"],
+"names":["define","create","message","response"]
+}

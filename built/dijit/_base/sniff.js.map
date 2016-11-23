@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"sniff.js",
+"lineCount":3,
+"mappings":"A;AAAAA,MAAA,CAAO,mBAAP,EAA4B,CAAE,YAAF,CAA5B,EAA8C,QAAQ,EAAE;CAAxD;",
+"sources":["sniff.js.uncompressed.js"],
+"names":["define"]
+}

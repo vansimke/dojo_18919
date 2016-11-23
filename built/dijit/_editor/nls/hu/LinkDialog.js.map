@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"LinkDialog.js",
+"lineCount":2,
+"mappings":"A;AAAAA,MAAA,CACA,iCADA,EACoC,CACnCC,gBAAiB,oCADkB,EAEnCC,iBAAkB,6BAFiB,EAGnCC,IAAK,MAH8B,EAInCC,KAAM,mBAJ6B,EAKnCC,OAAQ,WAL2B,EAMnCC,IAAK,0BAN8B,EAOnCC,cAAe,qBAPoB,EAQnCC,aAAc,uBARqB,EASnCC,UAAW,iCATwB,EAUnCC,UAAW,eAVwB,CADpC;",
+"sources":["LinkDialog.js.uncompressed.js"],
+"names":["define","createLinkTitle","insertImageTitle","url","text","target","set","currentWindow","parentWindow","topWindow","newWindow"]
+}

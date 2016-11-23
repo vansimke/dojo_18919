@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"debounce.js",
+"lineCount":13,
+"mappings":"A;AAAAA,MAAA,CAAO,eAAP,EAAwB,EAAxB,EAA4B,QAAQ,EAAE;AAMrC,SAAO,QAAQ,CAACC,CAAD,EAAKC,CAAL,CAAU;AAYxB,QAAIC,CACJ;WAAO,QAAQ,EAAE;AACbA,OAAH,IACCC,YAAA,CAAaD,CAAb,CAED;UAAIE,IAAO,IAAX,EACIC,IAAIC,SACRJ;OAAA,GAAQK,UAAA,CAAW,QAAQ,EAAE;AAC5BP,SAAAQ,MAAA,CAASJ,CAAT,EAAeC,CAAf,CAD4B;OAArB,EAELJ,CAFK,CANQ;KAbO;GANY;CAAtC;",
+"sources":["debounce.js.uncompressed.js"],
+"names":["define","cb","wait","timer","clearTimeout","self","a","arguments","setTimeout","apply"]
+}

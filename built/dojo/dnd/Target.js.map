@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"Target.js",
+"lineCount":7,
+"mappings":"A;AAAAA,MAAA,CAAO,iBAAP,EAA0B,CAAE,kBAAF,EAAsB,cAAtB,EAAsC,UAAtC,CAA1B,EAA8E,QAAQ,CAACC,CAAD,EAAUC,CAAV,EAAoBC,CAApB,CAA2B;AAChH,SAAOF,CAAA,CAAQ,iBAAR,EAA2BE,CAA3B,EAAmC,CAIzCC,YAAaA,QAAQ,EAA8B;AAGlD,QAAAC,SAAA,GAAgB,CAAA,CAChBH;KAAAI,OAAA,CAAgB,IAAAC,KAAhB,EAA2B,eAA3B,CAJkD;GAJV,CAAnC,CADyG;CAAjH;",
+"sources":["Target.js.uncompressed.js"],
+"names":["define","declare","domClass","Source","constructor","isSource","remove","node"]
+}

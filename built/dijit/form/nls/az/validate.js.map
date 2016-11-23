@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"validate.js",
+"lineCount":2,
+"mappings":"A;AAAAA,MAAA,CACA,4BADA,EAC+B,CAC9B,aAAiB,gDADa,EAE9B,eAAmB,uDAFW,EAG9B,eAAmB,kCAHW,CAD/B;",
+"sources":["validate.js.uncompressed.js"],
+"names":["define"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"VerticalRuleLabels.js",
+"lineCount":6,
+"mappings":"A;AAAAA,MAAA,CAAO,+BAAP,EAAwC,CACvC,oBADuC,EAEvC,wBAFuC,CAAxC,EAGG,QAAQ,CAACC,CAAD,EAAUC,CAAV,CAA+B;AAKzC,SAAOD,CAAA,CAAQ,+BAAR,EAAyCC,CAAzC,EAA+D,CAIrEC,eAAgB,8HAJqD,EAMrEC,gBAAiB,oFANoD,EAOrEC,aAAc,6DAPuD,EASrEC,cAAeA,QAAQ,CAACC,CAAD,CAAK;AAE3B,WAAO,GAAP,GAAWA,CAFgB;GATyC,EAerEC,cAAe,CAAA,CAfsD,CAA/D,CALkC;CAH1C;",
+"sources":["VerticalRuleLabels.js.uncompressed.js"],
+"names":["define","declare","HorizontalRuleLabels","templateString","_positionPrefix","_labelPrefix","_calcPosition","pos","_isHorizontal"]
+}

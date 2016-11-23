@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"require.js",
+"lineCount":6,
+"mappings":"A;AAAAA,MAAA,CAAO,cAAP,EAAuB,CAAC,gBAAD,CAAvB,EAA2C,QAAQ,CAACC,CAAD,CAAQ;AAC1D,SAAO,CACNC,QAAQ,CADF,EAENC,UAAUA,QAAQ,CAACC,CAAD,CAAI;AAAC,WAAOA,CAAR;GAFhB,EAGNC,KAAKJ,CAAAK,QAHC,CADmD;CAA3D;",
+"sources":["require.js.uncompressed.js"],
+"names":["define","loader","dynamic","normalize","id","load","require"]
+}

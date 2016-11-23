@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"MenuSeparator.js",
+"lineCount":10,
+"mappings":"A;AAAAA,OAAA,CAAQ,CAACC,MAAM,CACf,yCAAyC,yfAD1B,CAAP,CAAR,CAEAC;MAAA,CAAO,qBAAP,EAA8B,mHAAA,MAAA,CAAA,GAAA,CAA9B,EAOG,QAAQ,CAACC,CAAD,EAAUC,CAAV,EAAeC,CAAf,EAA4BC,CAA5B,EAA6CC,CAA7C,EAAyDC,CAAzD,CAAkE;AAK5E,SAAOL,CAAA,CAAQ,qBAAR,EAA+B,CAACE,CAAD,EAAcC,CAAd,EAA+BC,CAA/B,CAA/B,EAA2E,CAIjFE,eAAgBD,CAJiE,EAMjFE,eAAgBA,QAAQ,EAAE;AACzB,QAAAC,UAAA,CAAeC,SAAf,CACAR;KAAAS,cAAA,CAAkB,IAAAC,QAAlB,EAAgC,CAAA,CAAhC,CAFyB;GANuD,EAWjFC,YAAaA,QAAQ,EAAE;AAMtB,WAAO,CAAA,CANe;GAX0D,CAA3E,CALqE;CAP7E;",
+"sources":["MenuSeparator.js.uncompressed.js"],
+"names":["require","cache","define","declare","dom","_WidgetBase","_TemplatedMixin","_Contained","template","templateString","buildRendering","inherited","arguments","setSelectable","domNode","isFocusable"]
+}

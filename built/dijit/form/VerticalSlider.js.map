@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"VerticalSlider.js",
+"lineCount":7,
+"mappings":"A;AAAAA,OAAA,CAAQ,CAACC,MAAM,CACf,+CAA+C,i9GADhC,CAAP,CAAR,CAEAC;MAAA,CAAO,2BAAP,EAAoC,CACnC,oBADmC,EAEnC,oBAFmC,EAGnC,2CAHmC,CAApC,EAIG,QAAQ,CAACC,CAAD,EAAUC,CAAV,EAA4BC,CAA5B,CAAqC;AAK/C,SAAOF,CAAA,CAAQ,2BAAR,EAAqCC,CAArC,EAAuD,CAI7DE,eAAgBD,CAJ6C,EAK7DE,iBAAkB,OAL2C,EAM7DC,YAAa,GANgD,EAO7DC,oBAAqB,GAPwC,EAQ7DC,mBAAoB,KARyC,EAS7DC,mBAAoB,QATyC,EAc7DC,YAAa,CAAA,CAdgD,EAgB7DC,YAAaA,QAAQ,EAAE;AAItB,WAAO,IAAAD,YAJe;GAhBsC,CAAvD,CALwC;CAJhD;",
+"sources":["VerticalSlider.js.uncompressed.js"],
+"names":["require","cache","define","declare","HorizontalSlider","template","templateString","_mousePixelCoord","_pixelCount","_startingPixelCoord","_handleOffsetCoord","_progressPixelSize","_descending","_isReversed"]
+}

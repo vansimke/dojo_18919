@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"common.js",
+"lineCount":2,
+"mappings":"A;AAAAA,MAAA,CACA,qBADA,EACwB,CACvB,SAAa,IADU,EAEvB,aAAiB,mBAFM,EAGvB,WAAe,OAHQ,EAIvB,UAAc,YAJS,CADxB;",
+"sources":["common.js.uncompressed.js"],
+"names":["define"]
+}
